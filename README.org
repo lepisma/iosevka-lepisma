@@ -1,0 +1,4 @@
+#+TITLE: Iosevka-lepisma
+
+This is a personal variant of [[https://github.com/be5invis/Iosevka][Iosevka]] with larger width (535 as compared to 500)
+and few non default parameters: ~ss05 cv46 cv43~.

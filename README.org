@@ -2,5 +2,5 @@
 
 This is a personal variant of [[https://github.com/be5invis/Iosevka][Iosevka]] with larger width (535 as compared to 500)
 and few non default parameters: ~ss05 cv46 cv43~. Patched fonts with icons from
-[[https://github.com/ryanoasis/nerd-fonts][nerd-fonts]] are in ~./ttf/patched/~ (Emacs picks up /regular/ face from medium file,
-copy regular to medium to make it work).
+[[https://github.com/ryanoasis/nerd-fonts][nerd-fonts]] are in ~./ttf/patched/~ (Emacs picks up /regular/ faces from medium file,
+copy regular/italic/obliques to medium to make it work).
